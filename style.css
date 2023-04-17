@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #8a2be2;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.option-one-screen, .option-two-screen{
+  display: none;
+}
+.result-one, .result-two, .result-three, .result-four{
+  display: none;
+}
+.result-one{
+  margin:35px;
+    padding:35px;
+    border:6px solid black;
+    background:#decade;
+    border-image-width:200px ;
+}
+.result-two{
+  margin:35px;
+    padding:35px;
+    border:6px solid black;
+    background:#decade;
+    border-image-width:200px ;
+}
+.result-three{
+  margin:35px;
+    padding:35px;
+    border:6px solid black;
+    background:#decade;
+    border-image-width:200px ;
+}
+.result-four{
+  margin:35px;
+    padding:35px;
+    border:6px solid black;
+    background:#decade;
+    border-image-width:200px ;
+}
+
+
